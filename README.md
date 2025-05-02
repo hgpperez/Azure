@@ -2,4 +2,11 @@
 
 Foi seguidos todos os passos e foi criada uma VM. Tirei print das telas, onde mostro a criação e depois a conexão desta VM.
 
-https://github.com/hgpperez/Azure/blob/beb3e5bfb0030cec357319937a21283da7755c08/images/1.png
+<p align="center">
+    <img src="URL_DA_IMAGEM_1" alt="Imagem 1" width="300">
+    <img src="URL_DA_IMAGEM_2" alt="Imagem 2" width="300">
+    <img src="URL_DA_IMAGEM_3" alt="Imagem 3" width="300">
+    <img src="URL_DA_IMAGEM_4" alt="Imagem 4" width="300">
+    <img src="URL_DA_IMAGEM_5" alt="Imagem 5" width="300">
+    <img src="URL_DA_IMAGEM_6" alt="Imagem 6" width="300">
+</p>
