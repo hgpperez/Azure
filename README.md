@@ -10,3 +10,10 @@ Foram seguidos todos os passos e foi criada uma VM. Tirei print das telas, onde 
     <img src="images/5.png" alt="Imagem 5">
     <img src="images/6.png" alt="Imagem 6">
 </p>
+
+Logo após, realizei a criação de um banco de dados dentro desta máquina virtual.
+
+<p align="center">
+    <img src="images/7.png" alt="Imagem 7">
+</p>
+
